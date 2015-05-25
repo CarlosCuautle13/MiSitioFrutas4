@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#0FF}
+
+#titulo
+{ background:#9C6; color:#F00}
+
+#introduccion
+{ color:#000; size:"6"; text-align:justify; width:98%; margin:1%}
+
+#bayas
+{ background: #9C6; color:#0FF; size:"6"; text-align:justify}
+
+#citricos
+{ background:#C0C; color:#009; size:"6"; text-align:justify}
+
+#cucurbitaceas
+{ background:#309; color:#9FF; size:"6"; text-align:justify}
+
+#exoticas
+{ background:#90C; color:#CF3; size:"6"; text-align:justify}
+
+#frutadulce
+{ background:#390; color:#0F9; size:"6"; text-align:justify}
+
+#frutossecos
+{ background:#903; color:#FF0; size:"6"; text-align:justify}
